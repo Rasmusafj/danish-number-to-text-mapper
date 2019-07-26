@@ -1,2 +1,2 @@
 # danish-number-to-text-mapper
-Python package to handle mapping numbers to danish text
+Python package to handle mapping integers to danish text
