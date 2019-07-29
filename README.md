@@ -7,7 +7,7 @@ Handels numbers up to 1000000000 (billion/milliard) including
 
 ### Usage
 ```python
-number_to_text_mapper("121")
+number_to_text_mapper("221")
 >>> 'tohundrede og enogtyve'
 
 
