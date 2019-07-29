@@ -13,11 +13,4 @@ number_to_text_mapper("121")
 
 number_to_text_mapper(583182845)
 >>> 'femhundrede og treogfirs millioner hundrede og toogfirs tusinde ottehundrede og femogfyrre'
-
 ```
-
-
-
-
-
-
