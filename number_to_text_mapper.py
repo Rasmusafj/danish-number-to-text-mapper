@@ -143,5 +143,12 @@ def number_to_text_mapper(number):
 
 
 if __name__ == '__main__':
-    n = "21021240"
-    print(number_to_text_mapper(n))
+    import argparse
+
+    parser = argparse.ArgumentParser()
+   
+    parser.add_argument('-n', '--number', required=True, type=str, help="number to parse")
+
+    args = parser.parse_args()
+
+    print(number_to_text_mapper(args.number))
